@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+}
+h1{
+  font-size: 4.5rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 200%;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-color: #EAF6F6;
+  border-width: 10px;
+  border-top-style: dotted;
+  width: 5%;
+}
+.btn:hover {
+  background-color: #2bc4ad;
+}
+.contact-me{
+  margin-bottom: 100px;
+}
+
+
+.top-container{
+
+background-color: #DFF6FF;
+position: relative;
+padding-top:  100px;
+}
+.cloud-1{
+position: absolute;
+right: 27%;
+top: 10%;
+
+}
+.cloud-2 {
+  position: absolute;
+  left: 25%;
+  bottom: 45%;
+}
+.profile{
+  padding-top: 10px;
+}
+.skill-row{
+margin: 80px auto 80px auto;
+width: 50% ;
+overflow: auto;
+line-height: 2;
+text-align: left;
+}
+.skil,  .css {
+  width: 9em;
+  height: 9em;
+  float: left;
+  margin-right: 25px;
+}
+ .html,  .WebDesign{
+  width: 9em;
+  height: 9em;
+  float: right;
+  margin-left: 25px;
+}
+a {
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+  margin: 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #DFF6FF;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+#ssm{
+  color: #DFF6FF;
+  font-size: 0.75rem;
+ padding: 20px 0;
+}
+
+/*-------s
+
+font-family: 'Dancing Script', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+
+
+
+
+}
+------s*/
